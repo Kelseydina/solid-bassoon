@@ -82,10 +82,12 @@ a :hover {
 
 .hero-icon {
   font-size: 2rem;
+  float: left;
 }
 
 .renew-btn-container {
   font-size: 1.5rem;
+  float: right;
 }
 
 /* animations on card change */
